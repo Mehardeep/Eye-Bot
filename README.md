@@ -9,4 +9,10 @@ A webcam is mounted on a cap, continuously staring at the user’s eyes. server 
 Continuous snapshots of every 25th frame are taken and feature points extracted are saved i.e. we capture approximately 1 snapshot every second and process it. Based on the position of the feature points in previous snapshot and current snapshot, a movement is detected and this is communicated to the rover assembly via the serial port.
 
 
+![](images/leftside.png)
 
+![](images/rightside.png)
+
+![](images/straight.png)
+
+![](images/debugscreen.png)
