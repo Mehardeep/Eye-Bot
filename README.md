@@ -16,3 +16,6 @@ Continuous snapshots of every 25th frame are taken and feature points extracted 
 ![straight](https://user-images.githubusercontent.com/30156849/91642801-e6920f00-ea4b-11ea-8208-5e14bfdd9c70.png)
 
 ![debugscreen](https://user-images.githubusercontent.com/30156849/91642796-e3971e80-ea4b-11ea-88ba-74dedad42943.png)
+
+![WhatsApp Image 2020-08-27 at 8 45 48 PM](https://user-images.githubusercontent.com/30156849/91642904-b860ff00-ea4c-11ea-84a2-7f82161f5f82.jpeg)
+![WhatsApp Image 2020-08-27 at 9 40 25 PM](https://user-images.githubusercontent.com/30156849/91642907-ba2ac280-ea4c-11ea-988c-3bdb6a01767e.jpeg)
